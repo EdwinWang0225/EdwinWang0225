@@ -288,6 +288,22 @@ AI Infrastructure
 ## ⌨️ Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 September 2026 - To: 15 September 2026
+
+Total Time: 6 hrs 27 mins
+
+YAML                       6 hrs 26 mins         █████████████████▓░░░░░░░   70.67 %
+Other                      2 hrs 40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Bash                       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Docker                     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python                     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Nginx configuration file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript                 0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
