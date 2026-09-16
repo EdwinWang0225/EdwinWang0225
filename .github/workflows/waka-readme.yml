@@ -1,0 +1,33 @@
+name: Update WakaTime
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-main-write
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Update WakaTime section
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          STOP_AT_OTHER: false
+          CODE_LANG: txt
+          COMMIT_MESSAGE: "chore(profile): update WakaTime stats"
