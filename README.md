@@ -290,17 +290,17 @@ AI Infrastructure
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
-Total Time: 10 mins
+Total Time: 31 mins
 
-Markdown   8 mins                ██████████████████▓░░░░░░   75.22 %
-Python     1 min                 ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-YAML       0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-INI        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Other      0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Java       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Go         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML       15 mins               █████████▒░░░░░░░░░░░░░░░   37.76 %
+Markdown   14 mins               ████████▓░░░░░░░░░░░░░░░░   35.20 %
+Other      8 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+Python     1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+INI        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+CSV        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
