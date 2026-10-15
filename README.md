@@ -290,12 +290,13 @@ AI Infrastructure
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2026 - To: 13 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-Total Time: 58 mins
+Total Time: 2 hrs 26 mins
 
-YAML    58 mins               ███████████████████░░░░░░   76.53 %
-Other   18 mins               ██████░░░░░░░░░░░░░░░░░░░   23.47 %
+YAML    2 hrs 26 mins         ███████████████████░░░░░░   76.58 %
+Other   44 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+Bash    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
